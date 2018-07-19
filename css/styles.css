@@ -1,0 +1,21 @@
+body {
+  background: #d82e2e;
+  font-family: "Fira Mono", monospace;
+  font-size: 3em;
+  padding: 0.2em;
+}
+
+h1, h2, p, a {
+  color: #fcfcfc;
+  margin: 0;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 0.5em;
+  margin-top: 0.5em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
