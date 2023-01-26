@@ -1,7 +1,7 @@
-# Resume
+# Website
 
-Justin's [resume](https://www.justin.plus).
+My [website](https://www.justin.plus).
 
 ## Licensing
 
-Copyright (c) 2018 Bowei Jia (Justin). All rights reserved.
+Copyright (c) 2023 Bowei Jia (Justin). All rights reserved.
