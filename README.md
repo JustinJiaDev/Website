@@ -1,6 +1,6 @@
 # Website
 
-[Link](https://www.justin.plus).
+[Link](https://www.justin.plus)
 
 ## Licensing
 
