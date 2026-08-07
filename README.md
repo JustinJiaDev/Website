@@ -1,7 +1,7 @@
 # Website
 
-[Website Link](https://www.justin.plus)
+[Website](https://justin.plus)
 
 ## Licensing
 
-Copyright (c) 2023 Bowei Jia (Justin). All rights reserved.
+Copyright (c) 2026 Justin Jia. All rights reserved.
